@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Darudaniel
-- 👀 I’m interested in Medicine, IA, and web development
-- 🌱 I’m currently working on React.Js apps 
-- 💞️ I’m looking to collaborate on a startup
+- 👋 Hi, I’m @Darudaniel here and @danielruizen on Instagram.
+- 👀 I’m interested in Web development, AI, medicine, and financial markets.
 - 📫 habladaru@gmail.com 
