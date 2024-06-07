@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Darudaniel here and @danielruizen on Instagram.
+- 👋 Hi, I’m Daniel Ruiz, Web developer
+- I love programming on JS, mostly frontend but I've got experience on REST APIs, Google Cloud, making bots on Python
 - 👀 I’m interested in Web development, AI, medicine, and financial markets.
+- @danielruizen on Instagram.
 - 📫 habladaru@gmail.com 
